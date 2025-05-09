@@ -1,0 +1,15 @@
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.exe
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.deps.json
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.runtimeconfig.json
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.dll
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\bin\Debug\net9.0\MeuPrimeiroRepo.pdb
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.AssemblyInfoInputs.cache
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.AssemblyInfo.cs
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.csproj.CoreCompileInputs.cache
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.sourcelink.json
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.dll
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\refint\MeuPrimeiroRepo.dll
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.pdb
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\MeuPrimeiroRepo.genruntimeconfig.cache
+C:\Users\arthur.rueda\desktop\cursobaltaio\MeuPrimeiroRepo\obj\Debug\net9.0\ref\MeuPrimeiroRepo.dll
